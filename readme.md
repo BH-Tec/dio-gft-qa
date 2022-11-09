@@ -14,13 +14,13 @@
 
 ## 💻 Projeto
 
-Repositório criado para os desafios de códigos da Formação em Angular Developer da DIO.
+Repositório criado para os desafios de códigos do bootcamp GFT Quality Assurance Para Mulheres da DIO.
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- JavaScript
+- Java
 
 ## 📝 License
 
