@@ -32,7 +32,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ### Dominando algoritmos básicos com desafios de código Java
 
-- Méida de idade [veja aqui]()
+- Média de idade [veja aqui](./modulo1-desafio1/MediaIdade.java)
 - Qual é o seu turno? [veja aqui]()
 - A fila do banco [veja aqui]()
 - Encotrando o percentual de desconto [veja aqui](./modulo1-desafio4/Percentual.java)
