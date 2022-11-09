@@ -40,7 +40,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ### Dominando algoritmos intermediários com desafios de código Java
 
-- Flecha, escudo ou espada [veja aqui]()
+- Flecha, escudo ou espada [veja aqui](./modulo2-desafio1/FlechaEscudoOuEspada.java)
 - Número feliz [veja aqui]()
 - Quantidade necessária [veja aqui]()
 - Diferença entre dígitos [veja aqui]()
