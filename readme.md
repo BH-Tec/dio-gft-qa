@@ -41,7 +41,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ### Dominando algoritmos intermediários com desafios de código Java
 
 - Flecha, escudo ou espada [veja aqui](./modulo2-desafio1/FlechaEscudoOuEspada.java)
-- Número feliz [veja aqui]()
+- Número feliz [veja aqui](./modulo2-desafio2/NumeroFeliz.java)
 - Quantidade necessária [veja aqui](./modulo2-desafio3/QuantidadeNecessaria.java)
 - Diferença entre dígitos [veja aqui]()
 - Emboscada do RPG [veja aqui]()
