@@ -35,7 +35,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - Méida de idade [veja aqui]()
 - Qual é o seu turno? [veja aqui]()
 - A fila do banco [veja aqui]()
-- Encotrando o percentual de desconto [veja aqui]()
+- Encotrando o percentual de desconto [veja aqui](./modulo1-desafio4/Percentual.java)
 - Descubra o menor múltiplo [veja aqui]()
 
 ### Dominando algoritmos intermediários com desafios de código Java
