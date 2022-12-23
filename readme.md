@@ -33,7 +33,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ### Dominando algoritmos básicos com desafios de código Java
 
 - Média de idade [veja aqui](./modulo1-desafio1/MediaIdade.java)
-- Qual é o seu turno? [veja aqui]()
+- Qual é o seu turno? [veja aqui](./modulo1-desafio2/QualSeuTurno.java)
 - A fila do banco [veja aqui]()
 - Encotrando o percentual de desconto [veja aqui](./modulo1-desafio4/Percentual.java)
 - Descubra o menor múltiplo [veja aqui]()
