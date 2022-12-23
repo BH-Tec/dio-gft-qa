@@ -44,4 +44,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - Número feliz [veja aqui](./modulo2-desafio2/NumeroFeliz.java)
 - Quantidade necessária [veja aqui](./modulo2-desafio3/QuantidadeNecessaria.java)
 - Diferença entre dígitos [veja aqui]()
-- Emboscada do RPG [veja aqui]()
+- Emboscada do RPG [veja aqui](./modulo2-desafio5/EmboscadaRPG.java)
