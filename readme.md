@@ -43,5 +43,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - Flecha, escudo ou espada [veja aqui](./modulo2-desafio1/FlechaEscudoOuEspada.java)
 - Número feliz [veja aqui](./modulo2-desafio2/NumeroFeliz.java)
 - Quantidade necessária [veja aqui](./modulo2-desafio3/QuantidadeNecessaria.java)
-- Diferença entre dígitos [veja aqui]()
+- Diferença entre dígitos [veja aqui](./modulo2-desafio4/DiferencaEntreDigitos.java)
 - Emboscada do RPG [veja aqui](./modulo2-desafio5/EmboscadaRPG.java)
