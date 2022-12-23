@@ -34,7 +34,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 - Média de idade [veja aqui](./modulo1-desafio1/MediaIdade.java)
 - Qual é o seu turno? [veja aqui](./modulo1-desafio2/QualSeuTurno.java)
-- A fila do banco [veja aqui]()
+- A fila do banco [veja aqui](./modulo1-desafio3/FilaDoBanco.java)
 - Encotrando o percentual de desconto [veja aqui](./modulo1-desafio4/Percentual.java)
 - Descubra o menor múltiplo [veja aqui]()
 
